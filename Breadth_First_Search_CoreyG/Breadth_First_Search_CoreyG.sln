@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Breadth_First_Search_CoreyG", "Breadth_First_Search_CoreyG\Breadth_First_Search_CoreyG.pyproj", "{C8DFD5D9-D9A1-4407-B476-8D5AEAF3254C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DFD5D9-D9A1-4407-B476-8D5AEAF3254C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DFD5D9-D9A1-4407-B476-8D5AEAF3254C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D77481-74D9-488C-B267-B674948399D0}
+	EndGlobalSection
+EndGlobal

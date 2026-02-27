@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NQueens_Chess_Problem_CoreyG", "NQueens_Chess_Problem_CoreyG\NQueens_Chess_Problem_CoreyG.pyproj", "{DB06EF32-8156-46B1-AABD-8C0A52219877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB06EF32-8156-46B1-AABD-8C0A52219877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB06EF32-8156-46B1-AABD-8C0A52219877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A77A5F8-D280-460D-99C9-9C7C11D830C0}
+	EndGlobalSection
+EndGlobal
